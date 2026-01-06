@@ -1,0 +1,570 @@
+*{
+    margin: 0;
+    font-family: "Roboto", sans-serif; 
+    font-size: 15px;
+    font-weight: 600;
+}
+#left>#home{
+    position: absolute;
+    height: 30px;
+    width: 180px;
+    margin-top: 11px;
+    margin-left: 10px;
+    border: 2px solid rgba(0, 0, 0, 0);
+     border-radius: 5px;
+      cursor: pointer;
+}
+#left>#home>img{
+    position: absolute;
+    margin: 0px 0px 0px 0px;
+    height: 25px;
+    width: 45px;
+}
+#left>#home>span{
+    position: absolute;
+    margin: 6px 0px 0px 55px;
+}
+#left>#home:hover{
+     background-color: rgba(0, 0, 0, 0.585);
+}
+#left>#shorts{
+     position: absolute;
+    height: 30px;
+    width: 180px;
+    margin-top: 44px;
+    margin-left: 10px;
+    border: 2px solid rgba(0, 0, 0, 0);
+     border-radius: 5px;
+     cursor: pointer;
+}
+#left>#shorts>img{
+    position: absolute;
+    margin: 0px 0px 0px 5px;
+     height: 30px;
+    width: 30px;
+}
+#left>#shorts>span{
+    position: absolute;
+    margin: 6px 0px 0px 55px;
+}
+#left>#shorts:hover{
+     background-color: rgba(0, 0, 0, 0.585);
+}
+#left>#subscriptions{
+     position: absolute;
+    height: 30px;
+    width: 180px;
+    margin-top: 78px;
+    margin-left: 10px;
+    border: 2px solid rgba(0, 0, 0, 0);
+     border-radius: 5px;
+    cursor: pointer;
+}
+#left>#subscriptions>img{
+    position: absolute;
+    margin: 0px 0px 0px 6px;
+     height: 25px;
+    width: 27px;
+}
+#left>#subscriptions>span{
+    position: absolute;
+    margin: 5px 0px 0px 55px;
+    cursor: pointer;
+}
+#left>#subscriptions:hover{
+     background-color: rgba(0, 0, 0, 0.585);
+}
+#hr1{
+    position: absolute;
+    margin-top: 125px;
+    border-top: 1px solid rgba(0, 0, 0, 0.585);
+    width: 100%;
+}
+#left2>#you{
+     position: absolute;
+    height: 30px;
+    width: 180px;
+    margin-top: 140px;
+    margin-left: 10px;
+    border: 2px solid rgba(0, 0, 0, 0);
+     border-radius: 5px;
+     cursor: pointer;
+}
+#left2>#you>span{
+    position: absolute;
+    margin-left: 10px;
+    margin-top : 5px;
+}
+#left2>#you:hover{
+     background-color: rgba(0, 0, 0, 0.585);
+}
+#left2>#history{
+     position: absolute;
+    height: 30px;
+    width: 180px;
+    margin-top: 174px;
+    margin-left: 10px;
+    border: 2px solid rgba(0, 0, 0, 0);
+     border-radius: 5px;
+    cursor: pointer;
+}
+#left2>#history>img{
+    height: 24px;
+    width: 24px;
+    margin: 4px 0px 0px 6px;
+}
+#left2>#history>span{
+    position: absolute;
+    margin: 7px 0px 0px 25px;
+}
+#left2>#history:hover{
+     background-color: rgba(0, 0, 0, 0.585);
+}
+#left2>#playlists{
+     position: absolute;
+    height: 30px;
+    width: 180px;
+    margin-top: 208px;
+    margin-left: 10px;
+    border: 2px solid rgba(0, 0, 0, 0);
+     border-radius: 5px;
+    cursor: pointer;
+}
+#left2>#playlists>img{
+    position: absolute;
+    margin: 4px 0px 0px 6px;
+     height: 25px;
+    width: 27px;
+}
+#left2>#playlists>span{
+    position: absolute;
+    margin: 7px 0px 0px 55px;
+}
+#left2>#playlists:hover{
+     background-color: rgba(0, 0, 0, 0.585);
+}
+#left2>#watch{
+     position: absolute;
+    height: 30px;
+    width: 180px;
+    margin-top: 241.5px;
+    margin-left: 10px;
+    border: 2px solid rgba(0, 0, 0, 0);
+     border-radius: 5px;
+    cursor: pointer;
+}
+#left2>#watch>img{
+     position: absolute;
+    margin: 4px 0px 0px 6px;
+     height: 23px;
+    width: 25px;
+}
+#left2>#watch>span{
+    position: absolute;
+    margin: 7px 0px 0px 55px;
+}
+#left2>#watch:hover{
+     background-color: rgba(0, 0, 0, 0.585);
+}
+#left2>#liked{
+     position: absolute;
+    height: 30px;
+    width: 180px;
+    margin-top: 275px;
+    margin-left: 10px;
+    border: 2px solid rgba(0, 0, 0, 0);
+     border-radius: 5px;
+    cursor: pointer;
+}
+#left2>#liked>img{
+       position: absolute;
+    margin: 4px 0px 0px 6px;
+     height: 23px;
+    width: 25px;
+}
+#left2>#liked>span{
+    position: absolute;
+    margin: 7px 0px 0px 55px;
+}
+#left2>#liked:hover{
+     background-color: rgba(0, 0, 0, 0.585);
+}
+#hr2{
+    position: absolute;
+    margin-top: 322px;
+    border-top: 1px solid rgba(0, 0, 0, 0.585);
+    width: 100%;
+}
+#left3>#explore>span{
+     position: absolute;
+    height: 30px;
+    width: 180px;
+    margin-top: 337px;
+    margin-left: 10px;
+    border: 2px solid rgba(0, 0, 0, 0);
+}
+#left3>#shop{
+     position: absolute;
+    height: 30px;
+    width: 180px;
+    margin-top: 371px;
+    margin-left: 10px;
+    border: 2px solid rgba(0, 0, 0, 0);
+     border-radius: 5px;
+    cursor: pointer;
+}
+#left3>#shop>img{
+       position: absolute;
+    margin: 4px 0px 0px 6px;
+     height: 20px;
+    width: 23px;
+}
+#left3>#shop>span{
+    position: absolute;
+    margin: 6px 0px 0px 55px;
+}
+#left3>#shop:hover{
+     background-color: rgba(0, 0, 0, 0.585);
+}
+#left3>#music{
+     position: absolute;
+    height: 30px;
+    width: 180px;
+    margin-top: 404px;
+    margin-left: 10px;
+    border: 2px solid rgba(0, 0, 0, 0);
+     border-radius: 5px;
+    cursor: pointer;
+}
+#left3>#music>img{
+    position: absolute;
+    margin: 5px 0px 0px 6px;
+    height: 20px;
+    width: 25px;
+}
+#left3>#music>span{
+    position: absolute;
+    margin: 6px 0px 0px 55px;
+}
+#left3>#music:hover{
+     background-color: rgba(0, 0, 0, 0.585);
+}
+#left3>#movie{
+     position: absolute;
+    height: 30px;
+    width: 180px;
+    margin-top: 438px;
+    margin-left: 10px;
+    border: 2px solid rgba(0, 0, 0, 0);
+     border-radius: 5px;
+    cursor: pointer;
+}
+#left3>#movie>img{
+    position: absolute;
+    margin: 4px 0px 0px 6px;
+    height: 23px;
+    width: 25px;
+}
+#left3>#movie>span{
+    position: absolute;
+    margin: 6px 0px 0px 55px;
+}
+#left3>#movie:hover{
+     background-color: rgba(0, 0, 0, 0.585);
+}
+#left3>#live{
+     position: absolute;
+    height: 30px;
+    width: 180px;
+    margin-top: 472px;
+    margin-left: 10px;
+    border: 2px solid rgba(0, 0, 0, 0);
+     border-radius: 5px;
+    cursor: pointer;
+}
+#left3>#live>img{
+       position: absolute;
+    margin: 4px 0px 0px 6px;
+     height: 23px;
+    width: 25px;
+}
+#left3>#live>span{
+    position: absolute;
+    margin: 6px 0px 0px 55px;
+}
+#left3>#live:hover{
+     background-color: rgba(0, 0, 0, 0.585);
+}
+#left3>#game{
+     position: absolute;
+    height: 30px;
+    width: 180px;
+    margin-top: 505.5px;
+    margin-left: 10px;
+    border: 2px solid rgba(0, 0, 0, 0);
+     border-radius: 5px;
+    cursor: pointer;
+}
+#left3>#game>img{
+       position: absolute;
+    margin: 4px 0px 0px 6px;
+     height: 23px;
+    width: 25px;
+}
+#left3>#game>span{
+    position: absolute;
+    margin: 6px 0px 0px 55px;
+}
+#left3>#game:hover{
+     background-color: rgba(0, 0, 0, 0.585);
+}
+#left3>#news{
+     position: absolute;
+    height: 30px;
+    width: 180px;
+    margin-top: 539px;
+    margin-left: 10px;
+    border: 2px solid rgba(0, 0, 0, 0);
+     border-radius: 5px;
+    cursor: pointer;
+}
+#left3>#news>img{
+       position: absolute;
+    margin: 4px 0px 0px 6px;
+     height: 23px;
+    width: 25px;
+}
+#left3>#news>span{
+    position: absolute;
+    margin: 6px 0px 0px 55px;
+}
+#left3>#news:hover{
+     background-color: rgba(0, 0, 0, 0.585);
+}
+#left3>#sports{
+     position: absolute;
+    height: 30px;
+    width: 180px;
+    margin-top: 572.5px;
+    margin-left: 10px;
+    border: 2px solid rgba(0, 0, 0, 0);
+     border-radius: 5px;
+    cursor: pointer;
+}
+#left3>#sports>img{
+       position: absolute;
+    margin: 4px 0px 0px 6px;
+     height: 23px;
+    width: 25px;
+}
+#left3>#sports>span{
+    position: absolute;
+    margin: 6px 0px 0px 55px;
+}
+#left3>#sports:hover{
+     background-color: rgba(0, 0, 0, 0.585);
+}
+#left3>#course{
+     position: absolute;
+    height: 30px;
+    width: 180px;
+    margin-top: 606px;
+    margin-left: 10px;
+    border: 2px solid rgba(0, 0, 0, 0);
+     border-radius: 5px;
+    cursor: pointer;
+}
+#left3>#course>img{
+       position: absolute;
+    margin: 4px 0px 0px 6px;
+     height: 23px;
+    width: 25px;
+}
+#left3>#course>span{
+    position: absolute;
+    margin: 6px 0px 0px 55px;
+}
+#left3>#course:hover{
+     background-color: rgba(0, 0, 0, 0.585);
+}
+#left3>#fashion{
+     position: absolute;
+    height: 30px;
+    width: 180px;
+    margin-top: 640px;
+    margin-left: 10px;
+    border: 2px solid rgba(0, 0, 0, 0);
+     border-radius: 5px;
+    cursor: pointer;
+}
+#left3>#fashion>img{
+       position: absolute;
+    margin: 4px 0px 0px 6px;
+     height: 23px;
+    width: 25px;
+}
+#left3>#fashion>span{
+    position: absolute;
+    margin: 7px 0px 0px 55px;
+    font-size: 14px;
+}
+#left3>#fashion:hover{
+     background-color: rgba(0, 0, 0, 0.585);
+}
+#left3>#podcast{
+     position: absolute;
+    height: 30px;
+    width: 180px;
+    margin-top: 674px;
+    margin-left: 10px;
+    border: 2px solid rgba(0, 0, 0, 0);
+     border-radius: 5px;
+    cursor: pointer;
+}
+#left3>#podcast>img{
+       position: absolute;
+    margin: 5px 0px 0px 6px;
+     height: 21px;
+    width: 23px;
+}
+#left3>#podcast>span{
+    position: absolute;
+    margin: 6px 0px 0px 55px;
+}
+#left3>#podcast:hover{
+     background-color: rgba(0, 0, 0, 0.585);
+}
+#hr3{
+    position: absolute;
+    margin-top: 721px;
+    border-top: 1px solid rgba(0, 0, 0, 0.585);
+    width: 100%;
+}
+#left4>#setting{
+     position: absolute;
+    height: 30px;
+    width: 180px;
+    margin-top: 736px;
+    margin-left: 10px;
+    border: 2px solid rgba(0, 0, 0, 0);
+     border-radius: 5px;
+    cursor: pointer;
+}
+#left4>#setting>img{
+       position: absolute;
+    margin: 5px 0px 0px 6px;
+     height: 21px;
+    width: 23px;
+}
+#left4>#setting>span{
+    position: absolute;
+    margin: 6px 0px 0px 55px;
+}
+#left4>#setting:hover{
+     background-color: rgba(0, 0, 0, 0.585);
+}
+#left4>#report{
+     position: absolute;
+    height: 30px;
+    width: 180px;
+    margin-top: 770px;
+    margin-left: 10px;
+    border: 2px solid rgba(0, 0, 0, 0);
+     border-radius: 5px;
+    cursor: pointer;
+}
+#left4>#report>img{
+       position: absolute;
+    margin: 5px 0px 0px 6px;
+     height: 21px;
+    width: 23px;
+}
+#left4>#report>span{
+    position: absolute;
+    margin: 6px 0px 0px 55px;
+}
+#left4>#report:hover{
+     background-color: rgba(0, 0, 0, 0.585);
+}
+#left4>#help{
+     position: absolute;
+    height: 30px;
+    width: 180px;
+    margin-top: 804px;
+    margin-left: 10px;
+    border: 2px solid rgba(0, 0, 0, 0);
+     border-radius: 5px;
+    cursor: pointer;
+}
+#left4>#help>img{
+    position: absolute;
+    margin: 5px 0px 0px 6px;
+     height: 21px;
+    width: 23px;
+}
+#left4>#help>span{
+    position: absolute;
+    margin: 6px 0px 0px 55px;
+}
+#left4>#help:hover{
+     background-color: rgba(0, 0, 0, 0.585);
+}
+#left4>#feedback{
+     position: absolute;
+    height: 30px;
+    width: 180px;
+    margin-top: 838px;
+    margin-left: 10px;
+    border: 2px solid rgba(0, 0, 0, 0);
+     border-radius: 5px;
+    cursor: pointer;
+}
+#left4>#feedback>img{
+    position: absolute;
+    margin: 5px 0px 0px 6px;
+     height: 21px;
+    width: 23px;
+}
+#left4>#feedback>span{
+    position: absolute;
+    margin: 6px 0px 0px 55px;
+}
+#left4>#feedback:hover{
+     background-color: rgba(0, 0, 0, 0.585);
+}
+#hr3{
+    position: absolute;
+    margin-top: 885px;
+    border-top: 1px solid rgba(0, 0, 0, 0.585);
+    width: 100%;
+}
+#menufinal{
+    position: absolute;
+    width: 200px;
+    cursor: pointer;
+}
+#menufinal>#line1{
+    position: absolute;
+    font-size: 12px;
+    color: rgba(0, 0, 0, 0.585);
+    margin-left: 15px;
+    margin-top: 900px;
+    line-height: 1.5;
+}
+#menufinal>#line2{
+    position: absolute;
+    font-size: 12px;
+    color: rgba(0, 0, 0, 0.585);
+    margin-left: 15px;
+    margin-top: 958px;
+    line-height: 1.5;
+}
+#menufinal>#line3{
+    position: absolute;
+    font-size: 12px;
+    color: rgba(0, 0, 0, 0.585);
+    margin-left: 15px;
+    margin-top: 1018px;
+    line-height: 1.5;
+    font-weight: 500;
+}
