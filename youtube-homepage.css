@@ -1,0 +1,144 @@
+#menu>iframe{
+     height:590px;
+      width:220px;      
+}
+#row1>.video{
+      position: absolute;
+      margin-top: -15px;
+      height: 220px;
+      width: 350px;
+}
+#row1>#video1{
+      position: absolute;
+      margin-left: 250px;
+}
+#row1>#video2{
+      position: absolute;
+      margin-left: 620px;
+}
+#row1>#video3{
+      position: absolute;
+      margin-left: 990px;
+}
+#videoimg>.videoimg{
+      position: absolute;
+      margin-top: 170px;
+}
+#videoimg>#videoimg1{
+      margin-left: 250px;
+      height: 40px;
+      width: 40px;
+      border-radius: 40px;
+}
+#videologo>.videologo{
+      position: absolute;
+      margin-top: 125px;
+      width: 300px;
+}
+#videologo>#videologo1{
+      position: absolute;
+      margin-left: 300px;
+    font-family: "Roboto", sans-serif;
+    text-decoration: none;
+    color: black;        
+}
+#videoimg>#videoimg2{
+      margin-left: 620px;
+      height: 40px;
+      width: 40px;
+      border-radius: 40px;
+}
+#videologo>#videologo2{
+      position: absolute;
+      margin-left: 670px;
+    font-family: "Roboto", sans-serif;
+    text-decoration: none;
+    color: black;      
+    font-size: 14.5px;  
+}
+#videoimg>#videoimg3{
+      margin-left: 995px;
+      height: 40px;
+      width: 40px;
+      border-radius: 40px;
+}
+#videologo>#videologo3{
+      position: absolute;
+      margin-left: 1045px;
+    font-family: "Roboto", sans-serif;
+    text-decoration: none;
+    color: black;      
+    font-size: 17.5px;
+    padding-top: 8px;  
+}
+#row2>.video{
+      position: absolute;
+      margin-top: 155px;
+      height: 220px;
+      width: 350px;
+}
+#row2>#video1{
+      position: absolute;
+      margin-left: 250px;
+}
+#row2>#video2{
+      position: absolute;
+      margin-left: 620px;
+}
+#row2>#video3{
+      position: absolute;
+      margin-left: 990px;
+}
+#videoimg2>.videoimg{
+      position: absolute;
+      margin-top: 340px;
+}
+#videoimg2>#videoimg1{
+      margin-left: 250px;
+      height: 40px;
+      width: 40px;
+      border-radius: 40px;
+}
+#videologo2>.videologo{
+      position: absolute;
+      margin-top: 295px;
+      width: 300px;
+}
+#videologo2>#videologo1{
+      position: absolute;
+      margin-left: 300px;
+    font-family: "Roboto", sans-serif;
+    text-decoration: none;
+    color: black;        
+}
+#videoimg2>#videoimg2{
+      margin-left: 620px;
+      height: 40px;
+      width: 40px;
+      border-radius: 40px;
+}
+#videologo2>#videologo2{
+      position: absolute;
+      margin-left: 670px;
+    font-family: "Roboto", sans-serif;
+    text-decoration: none;
+    color: black;      
+    font-size: 17.5px;  
+}
+#videoimg2>#videoimg3{
+      margin-left: 995px;
+      height: 40px;
+      width: 40px;
+      border-radius: 40px;
+}
+#videologo2>#videologo3{
+      position: absolute;
+      margin-left: 1045px;
+    font-family: "Roboto", sans-serif;
+    text-decoration: none;
+    color: black;      
+    font-size: 15px;
+
+}
+
+
